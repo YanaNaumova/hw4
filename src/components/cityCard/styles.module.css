@@ -1,0 +1,14 @@
+.imgStyle {
+  max-width: 300px;
+  max-height: 200px;
+  width: 100%;
+  height: auto;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  color: green;
+}

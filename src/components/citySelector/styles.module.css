@@ -1,0 +1,8 @@
+.selectStyle {
+  background-color: green;
+  color: white;
+  padding: 10px 5px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
